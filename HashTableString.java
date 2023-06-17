@@ -34,3 +34,7 @@ public class HashTableString {
         ;
     }
 }
+
+// Runtime Complexity: 
+    // Best Case - no collisons - O(1)
+    // Worst Case - all collisions, all entries are in the same bucket - O(N) time
